@@ -17,7 +17,7 @@ The QR Code Generator takes user input (such as URLs, text, etc.) and converts i
 - **HTML5**: Structuring the content of the application.
 - **CSS3**: Styling and layout of the web pages.
 - **Bootstrap 5**: Responsive design and modern UI components.
-- **JavaScript** (Optional): For additional interactive elements, if required.
+- **JavaScript**: For additional interactive elements.
 
 ## Installation and Setup
 
@@ -26,3 +26,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/YourUsername/QRCodeGenerator.git
+
+2. **Navigate to Clone Repository**:
+   ```bash
+      cd qr
+
+3. ** Run The Python File**:
+   ``` bash
+      python app.py
+
+![image](https://github.com/user-attachments/assets/1e9ed223-bd7f-4899-a485-687d5349deec)
